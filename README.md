@@ -242,4 +242,4 @@ This repository serves as the official landing page for FOCA. The software is di
 **Get the most recent version of FOCA today!**
 
 ---
-**Last updated:** 2026-09-25 18:15:08 UTC
+**Last updated:** 2026-09-25 21:59:50 UTC
